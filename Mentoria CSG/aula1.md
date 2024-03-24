@@ -46,43 +46,43 @@ Agentes ou ações que exploram vulnerabilidades, causando danos ou prejuízos.
 
 **Maturidade de Processos:**
 1. **Nível 1 - Básico**: Este nível envolve práticas de segurança cibernética básicas e é geralmente focado na **conformidade com regulamentos e proteção contra ameaças comuns**. As organizações neste nível implementam controles de segurança de forma ad hoc e têm uma **postura reativa** em relação à segurança cibernética.
-- Reatividade
-- Ausência de Estrutura Formal
-- Falta de Consistência
-- Consciência Limitada de Riscos
-- Baixa Prioridade
+  - Reatividade
+  - Ausência de Estrutura Formal
+  - Falta de Consistência
+  - Consciência Limitada de Riscos
+  - Baixa Prioridade
 
 2. **Nível 2 - Intermediário**: No nível intermediário, as organizações estabelecem **práticas mais estruturadas** de segurança cibernética. Elas começam a **documentar e gerenciar seus processos** de segurança e implementam **controles específicos** para proteger informações confidenciais.
-- Documentação de Práticas de Segurança
-- Controles de Acesso
-- Conscientização e Treinamento
-- Monitoramento de Atividades de Segurança
-- Avaliação de Riscos
-- Atualizações de Software e Patch
+  - Documentação de Práticas de Segurança
+  - Controles de Acesso
+  - Conscientização e Treinamento
+  - Monitoramento de Atividades de Segurança
+  - Avaliação de Riscos
+  - Atualizações de Software e Patch
 
 3. **Nível 3 - Gerenciado**: Neste nível, as organizações têm um **conjunto abrangente de controles de segurança** cibernética implementados e gerenciados de forma **proativa**. Elas têm **processos bem definidos** para identificar e responder a incidentes de segurança, além de realizar **auditorias regulares** para garantir conformidade.
-- Gestão Proativa de Riscos
-- Governança de Segurança Cibernética
-- Resposta a Incidentes Avançada
-- Monitoramento Contínuo de Segurança
-- Melhoria Contínua
-- Parcerias e Colaborações
+  - Gestão Proativa de Riscos
+  - Governança de Segurança Cibernética
+  - Resposta a Incidentes Avançada
+  - Monitoramento Contínuo de Segurança
+  - Melhoria Contínua
+  - Parcerias e Colaborações
 
 4. **Nível 4 - Revisado**: No nível revisado, as organizações implementam **controles avançados de segurança** cibernética e têm a **capacidade de revisar e melhorar continuamente seus processos** de segurança. Elas realizam **análises de risco detalhadas** e podem **adaptar suas práticas** de segurança cibernética conforme necessário.
-- Gestão de Riscos Avançada
-- Adaptação a Ameaças Emergentes
-- Inovação e Pesquisa
-- Resiliência Avançada
-- Colaboração com Comunidade de Segurança
-- Avaliação e Auditoria Contínua
+  - Gestão de Riscos Avançada
+  - Adaptação a Ameaças Emergentes
+  - Inovação e Pesquisa
+  - Resiliência Avançada
+  - Colaboração com Comunidade de Segurança
+  - Avaliação e Auditoria Contínua
 
 5. **Nível 5 - Otimizado**: Este é o nível mais alto de maturidade, onde as organizações têm uma **cultura de segurança cibernética integrada** em toda a empresa. Elas **conduzem análises de risco avançadas** e estão **constantemente otimizando seus processos** de segurança para lidar com ameaças emergentes e mudanças no ambiente de segurança cibernética.
-- Cultura de Segurança Cibernética
-- Inovação e Adoção de Tecnologia
-- Resposta Rápida e Eficiente a Incidentes
-- Gestão de Riscos Proativa e Adaptativa
-- Parcerias Estratégicas e Colaborações
-- Liderança Engajada e Comprometida
+  - Cultura de Segurança Cibernética
+  - Inovação e Adoção de Tecnologia
+  - Resposta Rápida e Eficiente a Incidentes
+  - Gestão de Riscos Proativa e Adaptativa
+  - Parcerias Estratégicas e Colaborações
+  - Liderança Engajada e Comprometida
 
 ### Governança coorporativa e SI
 **IBGC - Código das Melhores Práticas de Governança Corporativa**</br>
