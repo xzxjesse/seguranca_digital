@@ -103,6 +103,10 @@ Agentes ou ações que exploram vulnerabilidades, causando danos ou prejuízos.
 
 **ISO 27001:**
 > Plan -> Do -> Check -> Act
+1. Plan: responsável pela identificação de riscos e oportunidades, definição de objetivos e metas de segurança da informação.
+2. Do: foca na implementação e operação dos controles de segurança da informação.
+3. Check: se concentra na monitoração e avaliação da efetividade dos controles de segurança da informação.
+4. Act: trata da tomada de medidas corretivas para remediar falhas e não conformidades.
 
 ## Gestão de Riscos:
 
@@ -120,10 +124,10 @@ Agentes ou ações que exploram vulnerabilidades, causando danos ou prejuízos.
 ### Risco Inerente:
 risco que já existe na empresa.
 - Etapas:
-  - Identificação
-  - Avaliação
-  - Resposta
-  - Contingência
+  - Identificação: riscos são listados e não há análise aprofundada.
+  - Resposta: o foco está em definir como lidar com os riscos já avaliados.
+  - Contingência: são criados planos para lidar com eventos inesperados.
+  - Avaliação: responsável por verificar a Magnitude, Probabilidade e Impacto do Risco.
 
 ### DRP:
 Plano de Recuperação de Desastres.
@@ -136,5 +140,6 @@ Plano de Recuperação de Desastres.
   - Comunicação e coordenação durante uma crise
   - Testes regulares e atualizações do plano
 
-### Gestão de Continuidade de Negócios:
-Capacidade de se planejar com planos de desastres, ataques... planos para indisponibilidade.
+### GCN
+Gestão de Continuidade de Negócios
+> Capacidade de se planejar com planos de desastres, ataques... planos para indisponibilidade.
