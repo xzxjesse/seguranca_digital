@@ -1,5 +1,5 @@
 # Use apenas os dados necessários
-Em resumo é não manter dados sensíveis sobre os usuários
+Não manter dados sensíveis sobre os usuários.
 
 ## Abordagens:
 > Transparência gera confiança.
@@ -18,18 +18,20 @@ As decisões tomadas de maneira agregada (ou seja, que afetam muitos usuários d
 
 Solicitar dados extremamente granulares, pessoais e personalizados pode deixar as pessoas desconfortáveis e reduzir a confiança do usuário em sua organização, além de aumentar o risco.
 
-**Métodos de resposta aleatórios** significam que os dados são coletados com um **grau ajustável de imprecisão**, envolve ampliar as respostas do usuário. 
+### Métodos de resposta aleatórios
+Significa que os dados são coletados com um **grau ajustável de imprecisão**, envolve ampliar as respostas do usuário. 
 
-**Privacidade diferencial** é um método que usa técnicas matemáticas para alterar o armazenamento de dados para que as propriedades agregadas dos dados ainda estejam presentes, mas não é possível saber se um indivíduo específico forneceu dados ou se foram fornecidos. 
+### Privacidade diferencial
+É um método que usa técnicas matemáticas para alterar o armazenamento de dados para que as propriedades agregadas dos dados ainda estejam presentes, mas não é possível saber se um indivíduo específico forneceu dados ou se foram fornecidos. 
 
 Nessas abordagens e em outras ainda é necessário **ter e seguir políticas claras** para confirmar que você não as está usando antes da agregação ou para que você está usando esses dados.
 
 ### Retenção
 > colete e remova dados depois que eles forem usados
 
-**Ciclo de vida dos dados**: eles são coletados, usados para ajudar você a tomar decisões de negócios e, em algum momento, precisam ser removidos. 
+- **Ciclo de vida dos dados**: eles são coletados, usados para ajudar você a tomar decisões de negócios e, em algum momento, precisam ser removidos. 
 
-- Princípio da revogabilidade: "A interface precisa permitir que o usuário revogue facilmente as autoridades concedidas pelo usuário sempre que possível a revogação. Os usuários precisam ter a opção de revogar esse consentimento e, assim, reduzir o acesso das autoridades aos recursos se possível.
+- **Princípio da revogabilidade**: "A interface precisa permitir que o usuário revogue facilmente as autoridades concedidas pelo usuário sempre que possível a revogação. Os usuários precisam ter a opção de revogar esse consentimento e, assim, reduzir o acesso das autoridades aos recursos se possível.
 
 > Os usuários "precisam de uma "saída de emergência" claramente marcada para sair da ação indesejada sem ter que passar por um processo estendido, oferecer aos usuários a capacidade de escapar sem ter que passar pelos obstáculos, "promove uma sensação de liberdade e confiança". 
 
@@ -37,15 +39,6 @@ Nessas abordagens e em outras ainda é necessário **ter e seguir políticas cla
 É útil permitir que os usuários **excluam contas** e que **limpem regularmente os dados temporários** e armazenados localmente ao sair com o cabeçalho Clear-Site-Data.
 
 **Cabeçalho Clear-Site-Data** para remover alguns ou todos os dados do usuário armazenados no lado do cliente, quando razoável. 
-
-> Usar o cabeçalho Clear-Site-Data provavelmente será mais fácil do que excluir individualmente todos os recursos criados, porque ele não exige que o código JavaScript seja executado no cliente (e é a única maneira oficial de limpar o cache do navegador), mas não é compatível com todos os navegadores.
-
-### Explique para o que você precisa dos dados
-A importância da confiança no relacionamento dos usuários com seu serviço aumenta a **longevidade do usuário e a vantagem competitiva**. 
-
-De modo que é importante ter **transparência dos processos**, e uma boa maneira de ser transparente é explicar **para que** você quer dados e **o que será feito** com esses dados e **quando e como remover eles**. Isso pode ser feito na Política de Privacidade ou ao fazer perguntas sobre a criação da conta.
-
-- Exemplo:
 
 ```bash
 <div>
@@ -55,24 +48,15 @@ De modo que é importante ter **transparência dos processos**, e uma boa maneir
     <aside id="whyemail">We need this information as a unique identifier for you, and if you forget your password we can send you a reminder. We will use your email address to send you regular updates on the service if you choose, and will delete your email address from any mailing lists if you delete your account.</aside>
 </div>
 ```
+> Usar o cabeçalho Clear-Site-Data provavelmente será mais fácil do que excluir individualmente todos os recursos criados, porque ele não exige que o código JavaScript seja executado no cliente (e é a única maneira oficial de limpar o cache do navegador), mas não é compatível com todos os navegadores.
+
+### Explique para o que você precisa dos dados
+A importância da confiança no relacionamento dos usuários com seu serviço aumenta a **longevidade do usuário e a vantagem competitiva**. 
+
+De modo que é importante ter **transparência dos processos**, e uma boa maneira de ser transparente é explicar **para que** você quer dados e **o que será feito** com esses dados e **quando e como remover eles**. Isso pode ser feito na Política de Privacidade ou ao fazer perguntas sobre a criação da conta.
 
 Passar por esse processo com tudo o que você coletar sobre um usuário também pode ajudar em processos e discussões internos. **Se você estiver relutante em anotar publicamente o que quer fazer com os dados do usuário porque ele não vai gostar da explicação, isso pode ser um sinal de que vale a pena repensar a coleta de dados.**
 
 - **muito invasiva:** "usaremos isso para rastrear onde você visita a cada hora" 
 - **ampla demais:** "não sabemos para o que vamos usar isso ainda, mas queremos que isso seja feito caso pensemos em algo para isso"
 - **muito evasiva:** "vamos usar isso para fins internos não divulgados"
-
-## Resumo
-
-### O que fazer:
-
-1. Decida todos os dados que você planeja coletar
-2. Defina por que você os deseja e por quanto tempo os manterá
-4. Explique aos usuários por que você os está coletando
-5. Exclua-o dos bancos de dados do servidor depois de usá-lo
-6. Use o cabeçalho Clear-Site-Data para permitir que os usuários excluam contas que criaram e limpe os dados armazenados no armazenamento.
-
-### Por que
-Criar uma relação com seus usuários é sobre confiança, e confiança é sobre abertura. Se você conseguir demonstrar que não está apenas coletando o máximo possível de dados sobre seus usuários e ocultando seus usos para eles, isso ajudará a **criar confiança**, o que pode ser uma vantagem competitiva sobre seus concorrentes menos escrupulosos.
-
-> A melhor maneira de gerar confiança é não exigir que os usuários confiem em você se não quiserem.
