@@ -5,7 +5,7 @@
 > Um curso para ajudá-lo a construir websites que preservam mais a privacidade.
 
 ## Use apenas os dados necessários
-[Texto das anotações]("seguranca_digital/dev web/Use apenas os dados necessários.md")
+(Texto das anotações)[https://github.com/xzxjesse/seguranca_digital/blob/main/dev%20web/Use%20apenas%20os%20dados%20necess%C3%A1rios.md]
 
 ### Resumo:
 #### O que fazer:
