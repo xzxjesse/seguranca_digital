@@ -1,11 +1,11 @@
 # Privacidade
 "Refere-se ao direito de um indivíduo controlar a divulgação e o uso de suas informações pessoais. Isso inclui o direito de decidir quem tem acesso aos seus dados, como eles são coletados, armazenados, compartilhados e usados. A proteção da privacidade é fundamental para garantir a autonomia, a liberdade e a segurança das pessoas em um mundo digital cada vez mais interconectado."
 
-(Learn Privacy)[https://web.dev/learn/privacy]
+[Learn Privacy](https://web.dev/learn/privacy)
 > Um curso para ajudá-lo a construir websites que preservam mais a privacidade.
 
 ## Use apenas os dados necessários
-(Texto das anotações)[https://github.com/xzxjesse/seguranca_digital/blob/main/dev%20web/Use%20apenas%20os%20dados%20necess%C3%A1rios.md]
+[Texto das anotações](https://github.com/xzxjesse/seguranca_digital/blob/main/dev%20web/Use%20apenas%20os%20dados%20necess%C3%A1rios.md)
 
 ### Resumo:
 #### O que fazer:
