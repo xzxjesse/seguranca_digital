@@ -21,6 +21,9 @@ Criar uma relação com seus usuários é sobre confiança, e confiança é sobr
 
 > A melhor maneira de gerar confiança é não exigir que os usuários confiem em você se não quiserem.
 ## Terceiros
+
+https://w3cping.github.io/privacy-threat-model/#high-level-threats
+
 ## Impressão digital
 ## Criptografia
 ## Práticas recomendadas
