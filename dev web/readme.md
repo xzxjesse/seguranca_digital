@@ -22,8 +22,31 @@ Criar uma relação com seus usuários é sobre confiança, e confiança é sobr
 > A melhor maneira de gerar confiança é não exigir que os usuários confiem em você se não quiserem.
 ## Terceiros
 
-https://w3cping.github.io/privacy-threat-model/#high-level-threats
+[Níveis de ameaça a privacidade](https://w3cping.github.io/privacy-threat-model/#high-level-threats)
+
+[Texto das anotações](https://github.com/xzxjesse/seguranca_digital/blob/main/dev%20web/Terceiros.md)
+
+### Resumo:
+
+**Terceiros são serviços externos integrados ao seu site, como botões de compartilhamento, vídeos e análise.**
+
+- Trazem funcionalidades, mas podem gerar problemas de privacidade, segurança e desempenho.
+- Práticas recomendadas:
+    - políticas de referenciador
+    - CSP
+    - Permissions-Policy
+- Tipos de terceiros: 
+    - entre sites
+    - iframes
+    - JavaScript
+    - bibliotecas
+- Exemplos de problemas: 
+    - rastreamento entre sites
+    - coleta de dados
+    - cookies
 
 ## Impressão digital
+
 ## Criptografia
+
 ## Práticas recomendadas
