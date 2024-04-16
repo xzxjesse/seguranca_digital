@@ -8,14 +8,14 @@ Repositório dedicado as anotações de estudos públicos sobre segurança digit
     - Learn Privacy
 
 - **Jornada da Segurança Digital**
-1. Privacidade e Proteção de Dados
-2. Segurança da Informação
-3. Segurança de Identidade em Mundo Digital
-4. IA e ameaças cibernéticas emergentes
-5. Blue Team: Gestão de Vulnerabilidades
-6. Resposta a Incidentes - Segurança de E-mail
-7. Forense Digital e Investigação Cibernética
-8. Hacker Ético: Fundamentos e Desafios
+    1. Privacidade e Proteção de Dados
+    2. Segurança da Informação
+    3. Segurança de Identidade em Mundo Digital
+    4. IA e ameaças cibernéticas emergentes
+    5. Blue Team: Gestão de Vulnerabilidades
+    6. Resposta a Incidentes - Segurança de E-mail
+    7. Forense Digital e Investigação Cibernética
+    8. Hacker Ético: Fundamentos e Desafios
 
 - **Palestras**
     - Ataques de Engenharia Social por Inteligencia Artificial
