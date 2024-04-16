@@ -2,7 +2,7 @@
 "Refere-se ao direito de um indivíduo controlar a divulgação e o uso de suas informações pessoais. Isso inclui o direito de decidir quem tem acesso aos seus dados, como eles são coletados, armazenados, compartilhados e usados. A proteção da privacidade é fundamental para garantir a autonomia, a liberdade e a segurança das pessoas em um mundo digital cada vez mais interconectado."
 
 ## Use apenas os dados necessários
-[Texto das anotações](https://github.com/xzxjesse/seguranca_digital/blob/main/dev%20web/Use%20apenas%20os%20dados%20necess%C3%A1rios.md)
+[Texto das anotações](https://github.com/xzxjesse/seguranca_digital/blob/main/DevWeb/Learn%20Privacy/Use%20apenas%20os%20dados%20necess%C3%A1rios.md )
 
 ### Resumo:
 #### O que fazer:
@@ -21,7 +21,7 @@ Criar uma relação com seus usuários é sobre confiança, e confiança é sobr
 
 [Níveis de ameaça a privacidade](https://w3cping.github.io/privacy-threat-model/#high-level-threats)
 
-[Texto das anotações](https://github.com/xzxjesse/seguranca_digital/blob/main/dev%20web/Terceiros.md)
+[Texto das anotações](https://github.com/xzxjesse/seguranca_digital/blob/main/DevWeb/Learn%20Privacy/Terceiros.md )
 
 ### Resumo:
 
