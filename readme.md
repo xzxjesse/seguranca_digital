@@ -5,9 +5,13 @@ Repositório dedicado as anotações de estudos públicos sobre segurança digit
 ## Conteúdo
 
 - **DevWeb**
+
+    [Link](https://web.dev/learn?hl=pt-br)
     - Learn Privacy
 
 - **Jornada da Segurança Digital**
+
+    [Link](https://www.youtube.com/@CyBBerMulheres)
     1. Privacidade e Proteção de Dados
     2. Segurança da Informação
     3. Segurança de Identidade em Mundo Digital
@@ -18,6 +22,11 @@ Repositório dedicado as anotações de estudos públicos sobre segurança digit
     8. Hacker Ético: Fundamentos e Desafios
 
 - **Palestras**
+
+    [Link IBSEC STAR](https://star.ibsec.com.br/videos/) 
+
+    [Link APECOF](https://www.youtube.com/@APECOF)
+
     - Ataques de Engenharia Social por Inteligencia Artificial
     - Como funcionam as estruturas de controles de segurança da informação
     - Investigação Defensiva - Aplicação da Computação Forense na Investigação Defensiva
